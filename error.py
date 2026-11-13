@@ -262,7 +262,8 @@ student = {
 }
 print(student.get("marks", "Marks not available"))
 
-student = {    "name": "Arun",    "age": 20,    "course": "Python"}print(student.get("marks", "Marks not available"))
+student = {    "name": "Arun",    "age": 20,    "course": "Python"}
+print(student.get("marks", "Marks not available"))
 
 
 # 11. Dictionary — Updating
